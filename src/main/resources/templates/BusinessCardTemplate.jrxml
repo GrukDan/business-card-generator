@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.18.1.final using JasperReports Library version 6.18.1-9d75d1969e774d4f179fb3be8401e98a0e6d1611  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="BusinessCardTemplate" pageWidth="250" pageHeight="90" columnWidth="250" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" uuid="b320b2ff-2224-4e36-9ccd-6b0a6eb1342b">
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<detail>
+		<band height="125" splitType="Stretch">
+			<image scaleImage="FillFrame" hAlign="Center" vAlign="Middle" onErrorType="Icon">
+				<reportElement mode="Opaque" x="0" y="0" width="250" height="125" uuid="56b73ab6-296b-46c4-ab60-6c8d5c0d2796"/>
+			</image>
+		</band>
+	</detail>
+</jasperReport>
